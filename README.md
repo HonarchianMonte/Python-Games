@@ -1,5 +1,5 @@
 # Python-Games
-Games built using Python or Py.games
+Games built using Python / Py.games
 
 I followed along and developed an understanding of Python via the games in this course by freeCodeCamp.org. 
 https://www.youtube.com/watch?v=XGf2GcyHPhc
